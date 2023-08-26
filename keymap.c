@@ -1,12 +1,5 @@
 #include QMK_KEYBOARD_H
 
-// enum layer_number {
-//   _QWERTY = 0,
-//   _LOWER,
-//   _RAISE,
-//   _ADJUST
-// };
-
 #define _QWERTY 0
 #define _LOWER 1
 #define _RAISE 2
